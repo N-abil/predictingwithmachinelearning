@@ -1,4 +1,4 @@
-# Analyzing Data Using Differen Machine Learning Models
+# Analyzing Data Using Different Machine Learning Models
 
 Companies rely on data to make business decisions such as expanding to a new location, pursuing new customers and retaining existing customers. The main resource for making some of these decisions is data. Being able to leverage this data can help companies and businesses make the appropriate decisions.
 
@@ -18,5 +18,7 @@ An analysis will be made using these algorithms:
 
 ## Built With
 Python
+
 pandas
+
 sklearn
